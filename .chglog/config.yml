@@ -1,7 +1,7 @@
 style: github
-template: CHANGELOG.tpl.md
+template: CHANGELOG.md.tpl.md
 info:
-  title: CHANGELOG
+  title: CHANGELOG.md
   repository_url: https://github.com/umotif-public/terraform-aws-waf-webaclv2
 options:
   header:
